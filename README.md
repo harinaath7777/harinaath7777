@@ -32,6 +32,13 @@
 
 ---
 
+## ⭐ Featured Projects
+- 🛒 **Amazon UI Clone** – HTML & CSS frontend project
+- 📘 **DSA in Java** – Structured problem-solving repository
+- ⚙️ **Automation Experiments** – Workflow and DevOps practice
+
+---
+
 ## 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,git,github,vscode,react,nodejs,mongodb&perline=12" />
@@ -53,6 +60,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight" width="450" />
 </p>
 
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harinaath7777&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
 ## 🤝 Connect with Me
@@ -69,7 +86,11 @@
 
 ## 🌱 Learning Philosophy
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harinaath7777&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <div align="center">
