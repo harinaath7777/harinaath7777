@@ -24,7 +24,7 @@
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=50&section=header" width="100%"/>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3498DB&width=300&lines=🚀+Quick+Bio" />
 - 🎓 Integrated MTech student at **VIT Chennai**
@@ -32,7 +32,7 @@
 - 💻 Building **Frontend projects** daily
 - 🏥 Exploring **AI in Healthcare**
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=20&section=header" width="100%"/>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=16A085&width=420&lines=🧠+Currently+Learning" />
 - 📘 **Advanced DSA** using Java  
@@ -40,21 +40,21 @@
 - ⚙️ **Git, GitHub workflows** & DevOps fundamentals  
 - 🧠 **AI concepts** for healthcare applications  
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=16A085&height=50&section=header" width="100%"/>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F1C40F&width=450&lines=🧩+Coding+Practice+on+LeetCode" />
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/B_harinaath?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F1C40F&height=20&section=header" width="100%"/>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F39C12&width=350&lines=⚡+Featured+Work" />
 - 🛒 **Amazon UI Clone** – HTML & CSS frontend project
 - 📘 **DSA in Java** – Structured problem-solving repository
 - ⚙️ **Automation Experiments** – Workflow and DevOps practice
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F39C12&height=50&section=header" width="100%"/>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=300&lines=💻+Tech+Stack" />
 <p align="center">
@@ -67,7 +67,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinaath7777&layout=compact&theme=tokyonight&hide_border=true" width="450" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=2ECC71&height=20&section=header" width="100%"/>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9B59B6&width=450&lines=📊+GitHub+Intelligence" />
 <p align="center">
@@ -99,5 +99,4 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=100&section=footer" width="100%"/>
-</div>
+  <img src="https://capsule-render.vercel
