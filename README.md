@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Harinaath <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Harinaath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Software%20Engineer&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/code.gif" width="400" alt="Coding Animation" />
 </p>
 
 <p align="center">
@@ -39,29 +39,14 @@
 
 ---
 
-## 📌 Current Focus
-- 🔭 Daily **Data Structures & Algorithms** practice
-- 🌐 Web development projects
-- ⚙️ Learning **Backend & DevOps** basics
-
----
-
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harinaath7777&theme=tokyonight&no-frame=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight" height="190" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinaath7777&layout=compact&theme=tokyonight" height="190" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight" width="450" />
 </p>
 
 ---
@@ -69,10 +54,7 @@
 ## 🤝 Connect with Me
 <p align="left">
 <a href="mailto:harinaath.b2024official@gmail.com">
-  <img src="https://img.shields.io/badge/Email-harinaath.b2024official@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Email-harinaath.b2024official@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
@@ -84,5 +66,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=100&section=footer" width="100%"/>
 </div>
