@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Harinaath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Harinaath+👋" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXlxZ3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="3D Animation" />
@@ -24,7 +26,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXlxZ3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> 👨‍💻 About Me
 - 🎓 Integrated MTech student at **VIT Chennai**
 - 🧠 Focused on **CS fundamentals** and problem solving
 - 💻 Building **Frontend projects** daily
@@ -32,21 +34,21 @@
 
 ---
 
-## ⭐ Featured Projects
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F39C12&width=300&lines=⭐+Featured+Projects" />
 - 🛒 **Amazon UI Clone** – HTML & CSS frontend project
 - 📘 **DSA in Java** – Structured problem-solving repository
 - ⚙️ **Automation Experiments** – Workflow and DevOps practice
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=300&lines=🛠️+Tech+Stack" />
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,git,github,vscode,react,nodejs,mongodb&perline=12" />
 </p>
 
 ---
 
-## 📊 GitHub Performance
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9B59B6&width=400&lines=📊+GitHub+Performance" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight" width="450" />
@@ -60,19 +62,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight" width="450" />
 </p>
 
-## 🏆 GitHub Achievements
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F1C40F&width=400&lines=🏆+GitHub+Achievements" />
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harinaath7777&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harinaath7777&theme=tokyonight&no-bg=true" />
 </p>
 
-## 📈 Contribution Activity
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=E74C3C&width=400&lines=📈+Contribution+Activity" />
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3498DB&width=300&lines=🤝+Connect+with+Me" />
 <p align="left">
 <a href="mailto:harinaath.b2024official@gmail.com">
   <img src="https://img.shields.io/badge/Email-harinaath.b2024official@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -84,7 +86,7 @@
 
 ---
 
-## 🌱 Learning Philosophy
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1ABC9C&width=400&lines=🌱+Learning+Philosophy" />
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 </p>
