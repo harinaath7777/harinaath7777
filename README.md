@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://assets.terminustech.com/images/animations/coding-animation.gif" width="400" />
+</p>
+
+<p align="center">
   <a href="https://github.com/harinaath7777">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -41,14 +45,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
+## 📊 GitHub Performance
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harinaath7777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 📊 GitHub Stats
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
@@ -57,13 +58,13 @@
 
 <br>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117" width="100%" />
+</div>
 
 ---
 
