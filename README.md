@@ -34,6 +34,21 @@
 
 ---
 
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=16A085&width=420&lines=🧠+Currently+Learning" />
+- 📘 **Advanced DSA** using Java  
+- 🌐 **Responsive Web Design** & React basics  
+- ⚙️ **Git, GitHub workflows** & DevOps fundamentals  
+- 🧠 **AI concepts** for healthcare applications  
+
+---
+
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F1C40F&width=450&lines=🧩+Coding+Practice+on+LeetCode" />
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/B_harinaath?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
+
+---
+
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F39C12&width=350&lines=⚡+Featured+Work" />
 - 🛒 **Amazon UI Clone** – HTML & CSS frontend project
 - 📘 **DSA in Java** – Structured problem-solving repository
@@ -42,30 +57,34 @@
 ---
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=300&lines=💻+Tech+Stack" />
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,git,github,vscode,react,nodejs,mongodb&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,git,github,vscode,react,nodejs,mongodb&theme=dark" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinaath7777&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinaath7777&layout=compact&theme=tokyonight&hide_border=true" width="450" />
 </p>
 
 ---
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9B59B6&width=450&lines=📊+GitHub+Intelligence" />
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight" width="400" />
+  <a href="https://github.com/harinaath7777">
+    <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight&border_radius=10" width="450" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight" width="100%" />
+  <a href="https://github.com/harinaath7777">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight&border_radius=10" width="450" />
+  </a>
 </p>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=E74C3C&width=450&lines=📈+Activity+Pulse" />
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
