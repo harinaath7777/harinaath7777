@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harinaath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXlxZ3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJueHlsYm01eWd4N3BqZzR4eGdzYTN3eGZ6eGZ6eGZ6eGZ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1uE6U7I91Y2S2t5rA/giphy.gif" width="450" alt="Coding Animation" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=harinaath7777&label=Profile%20Views&color=0e75b6&style=flat" alt="harinaath7777" />
+  <img src="https://komarev.com/ghpvc/?username=harinaath7777&label=Profile%20Views&color=0e75b6&style=flat" alt="Views Counter" />
 </p>
 
 ---
@@ -48,20 +48,23 @@
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harinaath7777&theme=tokyonight&no-frame=false&margin-w=4" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinaath7777&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harinaath7777&theme=tokyonight&no-frame=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinaath7777&layout=compact&theme=tokyonight" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=tokyonight&area=true" width="850" />
 </p>
 
 ---
