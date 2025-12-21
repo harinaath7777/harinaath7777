@@ -42,8 +42,13 @@
 ---
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=300&lines=💻+Tech+Stack" />
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,git,github,vscode,react,nodejs,mongodb&perline=12" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,git,github,vscode,react,nodejs,mongodb&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinaath7777&layout=compact&theme=tokyonight&hide_border=true" width="400" />
 </p>
 
 ---
@@ -52,10 +57,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinaath7777&layout=compact&theme=tokyonight" width="400" />
 </p>
 
 <p align="center">
