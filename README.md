@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Harinaath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Integrated+MTech+Software+Engineering;DSA+%E2%80%A2+Web+Development+%E2%80%A2+DevOps;Exploring+AI+in+Healthcare" alt="Typing SVG" />
-  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXlxZ3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
 <p align="center">
-  <img src="https://assets.terminustech.com/images/animations/coding-animation.gif" width="400" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Integrated+MTech+Software+Engineering;DSA+%E2%80%A2+Web+Development+%E2%80%A2+DevOps;Exploring+AI+in+Healthcare" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -47,24 +47,22 @@
 
 ## 📊 GitHub Performance
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harinaath7777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harinaath7777&theme=tokyonight&no-frame=false&margin-w=4" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinaath7777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinaath7777&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117" width="100%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
 
 ---
 
