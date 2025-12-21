@@ -59,4 +59,6 @@
 ## 🌱 Learning Philosophy
 > *"Learning by building, staying consistent, and documenting progress through clean code."*
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
