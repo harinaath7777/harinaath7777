@@ -44,13 +44,11 @@
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=300&lines=💻+Tech+Stack" />
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,git,github,vscode,react,nodejs,mongodb&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,git,github,vscode,react,nodejs,mongodb&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinaath7777&layout=compact&theme=tokyonight&hide_border=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinaath7777&layout=compact&theme=tokyonight&hide_border=true" width="400" />
 </p>
 
 ---
@@ -58,20 +56,16 @@
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9B59B6&width=450&lines=📊+GitHub+Intelligence" />
 
 <p align="center">
-  <a href="https://github.com/harinaath7777">
-    <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight&border_radius=10" width="450" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight" width="400" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/harinaath7777">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight&border_radius=10" width="450" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight" width="100%" />
 </p>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=E74C3C&width=450&lines=📈+Activity+Pulse" />
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
