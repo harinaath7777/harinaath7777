@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXlxZ3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="3D Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXlxZ3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Large Coding Animation" />
 </p>
 
 <p align="center">
@@ -29,8 +29,8 @@
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXlxZ3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> 👨‍💻 About Me
 - 🎓 Integrated MTech student at **VIT Chennai**
 - 🧠 Focused on **CS fundamentals** and problem solving
-- 💻 Building **Frontend projects** daily
-- 🏥 Exploring **AI in Healthcare**
+- 💻 Building **Web development projects** daily
+- 🏥 Exploring **AI and Blockchain**
 
 ---
 
@@ -64,7 +64,7 @@
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F1C40F&width=400&lines=🏆+GitHub+Achievements" />
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harinaath7777&theme=tokyonight&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harinaath7777&theme=tokyonight" />
 </p>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=E74C3C&width=400&lines=📈+Contribution+Activity" />
