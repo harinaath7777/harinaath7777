@@ -41,6 +41,13 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harinaath7777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -54,10 +61,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117" />
+</p>
+
 ---
 
 ## 🌱 Learning Philosophy
 > *"Learning by building, staying consistent, and documenting progress through clean code."*
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
