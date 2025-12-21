@@ -84,4 +84,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E74C3C&height=60&section=header" width="100%"/>
 
-## <img src="
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=E74C3C&width=450&lines=📈+Activity+Pulse" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1ABC9C&height=60&section=header" width="100%"/>
+
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1ABC9C&width=400&lines=💡+Dev+Wisdom" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harinaath7777&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=100&section=footer" width="100%"/>
+</div>
