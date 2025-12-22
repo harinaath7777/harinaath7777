@@ -79,11 +79,19 @@
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9B59B6&width=450&lines=📊+GitHub+Intelligence" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="450" />
+  <img src="https://platane.github.io/snk/github-contribution-grid-snake-dark.svg?user=harinaath7777" alt="Snake Animation" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight&hide_border=true" width="450" />
+  <a href="https://github.com/harinaath7777">
+    <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight&border_radius=10" width="450" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/harinaath7777">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight&border_radius=10" width="450" />
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E74C3C&height=60&section=header" width="100%"/>
