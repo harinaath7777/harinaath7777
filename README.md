@@ -79,12 +79,18 @@
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9B59B6&width=450&lines=📊+GitHub+Intelligence" />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight&hide_border=false" width="100%" />
+  <img src="https://github.com/harinaath7777/harinaath7777/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/harinaath7777">
     <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight&border_radius=10" width="450" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/harinaath7777">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinaath7777&theme=tokyonight&border_radius=10" width="450" />
   </a>
 </p>
 
