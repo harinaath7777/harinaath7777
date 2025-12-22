@@ -78,9 +78,7 @@
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9B59B6&width=450&lines=📊+GitHub+Intelligence" />
 
-<p align="center">
-  <img src="https://platane.github.io/snk/github-contribution-grid-snake-dark.svg?user=harinaath7777" alt="Snake Animation" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/harinaath7777">
