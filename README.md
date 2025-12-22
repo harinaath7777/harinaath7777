@@ -79,7 +79,9 @@
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9B59B6&width=450&lines=📊+GitHub+Intelligence" />
 
 <p align="center">
-  <img src="https://github.com/harinaath7777/harinaath7777/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=harinaath7777&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 <p align="center">
