@@ -113,4 +113,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=100&section=footer" width="100%"/>
 </div>
- hey in these a liitle stuffs are broken so dont change the content and pls change the animation 
+ 
