@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinaath7777&layout=compact&theme=tokyonight&hide_border=true" width="450" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harinaath7777&theme=tokyonight" width="450" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=60&section=header" width="100%"/>
@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://github.com/harinaath7777">
-    <img src="https://github-readme-stats.vercel.app/api?username=harinaath7777&show_icons=true&theme=tokyonight&border_radius=10" width="450" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harinaath7777&theme=tokyonight" width="450" />
   </a>
 </p>
 
