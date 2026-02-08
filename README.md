@@ -38,7 +38,7 @@
 - 📘 **Advanced DSA** using Java  
 - 🌐 **Responsive Web Design** & React basics  
 - ⚙️ **Git, GitHub workflows** & DevOps fundamentals  
-- 🧠 **AI concepts** for healthcare applications  
+- 🧠 **AI concepts**   
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F1C40F&height=60&section=header" width="100%"/>
 
@@ -52,7 +52,7 @@
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F39C12&width=350&lines=⚡+Featured+Work" />
 - 🛒 **Amazon UI Clone** – HTML & CSS frontend project
 - 📘 **DSA in Java** – Structured problem-solving repository
-- ⚙️ **Automation Experiments** – Workflow and DevOps practice
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=60&section=header" width="100%"/>
 
