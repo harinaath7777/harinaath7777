@@ -1,111 +1,182 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi,+I'm+Harinaath+👋" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation" />
-</p>
+# HARINAATH
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Integrated+MTech+Software+Engineering;DSA+%E2%80%A2+Web+Development+%E2%80%A2+DevOps;Exploring+AI+in+Healthcare" alt="Typing SVG" />
-  </a>
-</p>
+### Software Engineering Student • AI Engineer in Training
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+LLM+Engineering;RAG+%7C+Agentic+AI+%7C+Backend+Engineering;Building+Practical+AI+Systems" alt="Typing SVG" />
+
+<p>
   <a href="https://github.com/harinaath7777">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="mailto:harinaath.b2024official@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3498DB&height=60&section=header" width="100%"/>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3498DB&width=300&lines=🚀+Quick+Bio" />
-- 🎓 Integrated MTech student at **VIT Chennai**
-- 🧠 Focused on **CS fundamentals** and problem solving
-- 💻 Building **Frontend projects** daily
-- 🏥 Exploring **AI in Healthcare**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16A085&height=60&section=header" width="100%"/>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=16A085&width=420&lines=🧠+Currently+Learning" />
-- 📘 **Advanced DSA** using Java  
-- 🌐 **Responsive Web Design** & React basics  
-- ⚙️ **Git, GitHub workflows** & DevOps fundamentals  
-- 🧠 **AI concepts** <img src="https://capsule-render.vercel.app/api?type=waving&color=F1C40F&height=60&section=header" width="100%"/>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F1C40F&width=450&lines=🧩+Coding+Practice+on+LeetCode" />
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/B_harinaath?theme=dark&font=Fira%20Code&ext=contest" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F39C12&height=60&section=header" width="100%"/>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F39C12&width=350&lines=⚡+Featured+Work" />
-- 🛒 **Amazon UI Clone** – HTML & CSS frontend project
-- 📘 **DSA in Java** – Structured problem-solving repository
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=60&section=header" width="100%"/>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=667eea&width=350&lines=🤝+Open+To" />
-- 💼 **Internships** (Tech / Web / Software)
-- 🚀 **Open-source contributions**
-- 🏆 **Hackathons** & collaborative projects
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=60&section=header" width="100%"/>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=300&lines=💻+Tech+Stack" />
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,git,github,vscode,react,nodejs,mongodb&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harinaath7777&theme=tokyonight" width="450" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=60&section=header" width="100%"/>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9B59B6&width=450&lines=📊+GitHub+Intelligence" />
-
-<p align="center">
-  <a href="https://github.com/harinaath7777">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harinaath7777&theme=tokyonight" width="450" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/harinaath7777">
-    <img src="https://streak-stats.demolab.com/?user=harinaath7777&theme=tokyonight&border_radius=10" width="450" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E74C3C&height=60&section=header" width="100%"/>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=E74C3C&width=450&lines=📈+Activity+Pulse" />
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1ABC9C&height=60&section=header" width="100%"/>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1ABC9C&width=400&lines=💡+Dev+Wisdom" />
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harinaath7777&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=100&section=footer" width="100%"/>
 </div>
+
+---
+
+## About
+
+I'm an **Integrated M.Tech Software Engineering student at VIT Chennai**, focused on building intelligent software systems at the intersection of **AI and software engineering**.
+
+My current interests include **Machine Learning, Deep Learning, NLP, LLM Engineering, RAG, Agentic AI, backend development, and MLOps**.
+
+I enjoy turning concepts into working systems — from model experimentation to full-stack AI applications.
+
+---
+
+## Engineering Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- LLM Engineering
+- Generative AI
+- Retrieval-Augmented Generation
+- AI Agents
+- Agentic Workflows
+
+</td>
+<td width="50%" valign="top">
+
+### Software Engineering
+
+- Java
+- Python
+- Spring Boot
+- React
+- Node.js
+- REST APIs
+- MongoDB
+- Data Structures & Algorithms
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Cloud & DevOps
+
+- AWS
+- Docker
+- MLOps
+- CI/CD
+- Linux
+- Cloud Fundamentals
+
+</td>
+<td width="50%" valign="top">
+
+### Developer Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter
+- Ollama
+- API Development
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,spring,mongodb,git,github,docker,aws,linux&theme=dark" />
+</p>
+
+---
+
+## Selected Projects
+
+### AI-Powered Resume Intelligence Platform
+
+**AI + Full-Stack Application**
+
+An intelligent resume analysis and career assistance platform designed to help candidates identify skill gaps and improve their resumes.
+
+**Stack:** React • Node.js • Express • MongoDB • Gemini API • JWT • Puppeteer
+
+**Key capabilities**
+
+- Resume parsing and skill extraction
+- AI-powered skill-gap analysis
+- ATS optimization
+- Career assistance
+- AI-generated interview preparation
+- Resume generation
+
+---
+
+### Local LLM Assistant
+
+**Local AI Application**
+
+A privacy-focused conversational AI application built around locally hosted language models.
+
+**Stack:** Python • Streamlit • Ollama • Llama
+
+**Key capabilities**
+
+- Local LLM inference
+- Streaming responses
+- Conversational interface
+- Session-based chat history
+- No dependency on external model hosting
+
+---
+
+### Solar Power Generation Prediction
+
+**Machine Learning Forecasting**
+
+A machine-learning project focused on predicting solar power generation using ensemble gradient-boosting models.
+
+**Models:** CatBoost • LightGBM • XGBoost
+
+**Focus areas**
+
+- Data preprocessing
+- Feature engineering
+- Model training
+- Model comparison
+- Solar power prediction
+
+---
+
+## Current Learning Path
+
+```text
+Software Engineering
+        │
+        ├── Programming & DSA
+        │
+        ├── Backend Engineering
+        │       └── Java / Spring Boot / REST APIs
+        │
+        └── AI Engineering
+                │
+                ├── Machine Learning
+                ├── Deep Learning
+                ├── NLP
+                ├── LLM Engineering
+                ├── RAG
+                ├── AI Agents
+                └── MLOps & Production AI
